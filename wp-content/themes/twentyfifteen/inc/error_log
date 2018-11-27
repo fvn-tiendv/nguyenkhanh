@@ -1,0 +1,16 @@
+[26-Oct-2018 10:38:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nguyent8nv/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 14:42:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nguyent8nv/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 19:39:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nguyent8nv/public_html/wp-content/themes/twentyfifteen/inc/customizer.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[27-Oct-2018 08:04:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nguyent8nv/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171

@@ -1,0 +1,32 @@
+[14-Oct-2018 06:55:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/single.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/single.php on line 10
+[15-Oct-2018 03:53:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[16-Oct-2018 01:23:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function has_nav_menu() in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/footer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/footer.php on line 16
+[16-Oct-2018 22:02:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/image.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/image.php on line 10
+[20-Oct-2018 12:31:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/page.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/page.php on line 14
+[20-Oct-2018 14:31:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/searchform.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/searchform.php on line 11
+[20-Oct-2018 16:10:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/sidebar-content-bottom.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/sidebar-content-bottom.php on line 10
+[20-Oct-2018 21:58:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/sidebar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentysixteen/sidebar.php on line 11

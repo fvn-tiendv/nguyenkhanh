@@ -1,0 +1,52 @@
+[15-Oct-2018 23:36:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Oct-2018 09:53:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Oct-2018 17:59:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/front-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/front-page.php on line 15
+[20-Oct-2018 19:58:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[21-Oct-2018 01:49:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[21-Oct-2018 03:29:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/archive.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/archive.php on line 13
+[21-Oct-2018 05:12:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/searchform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/searchform.php on line 13
+[21-Oct-2018 06:53:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/single.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/single.php on line 13
+[21-Oct-2018 08:35:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/header.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/header.php on line 16
+[22-Oct-2018 13:47:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Oct-2018 22:31:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/page.php on line 18
+[02-Nov-2018 15:51:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/search.php on line 13
+[03-Nov-2018 17:30:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nguyent8nv/public_html/wp-content/themes/twentyseventeen/comments.php on line 21
